@@ -1,0 +1,4 @@
+interface:
+  display_name: "评测 Skill"
+  short_description: "测试 Skill 的触发、功能、异常、回归与发布条件"
+  default_prompt: "Use $evaluating-skills to test this Skill and issue an evidence-based release verdict."

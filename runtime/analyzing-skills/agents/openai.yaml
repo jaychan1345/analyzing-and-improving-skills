@@ -1,0 +1,4 @@
+interface:
+  display_name: "拆解 Skill"
+  short_description: "只读、证据化拆解 Skill 的结构、流程、依赖与合同"
+  default_prompt: "Use $analyzing-skills to decompose this Skill without modifying its source."

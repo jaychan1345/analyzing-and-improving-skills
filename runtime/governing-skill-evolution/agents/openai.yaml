@@ -1,0 +1,4 @@
+interface:
+  display_name: "治理 Skill 演进"
+  short_description: "管理拆解体系的提案、中心版本、个人分支与回滚"
+  default_prompt: "Use $governing-skill-evolution to govern this proposed change to the Skill analysis suite."
