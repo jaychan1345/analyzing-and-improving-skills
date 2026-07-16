@@ -289,7 +289,7 @@ Run:
 
 ```powershell
 $files = @('README.md','README_EN.md')
-$patterns = @('TO[D]O','TB[D]','C:\\Users\\','/Users/','<your-','填写')
+$patterns = @('TO[D]O','TB[D]','C:\\Users\\','/Users/','<your-','请在此填写')
 $hits = foreach ($file in $files) {
   foreach ($pattern in $patterns) {
     Select-String -Path $file -Pattern $pattern
