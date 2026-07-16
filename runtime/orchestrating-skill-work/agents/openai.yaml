@@ -1,0 +1,4 @@
+interface:
+  display_name: "编排 Skill 工作"
+  short_description: "编排跨阶段 Skill 拆解、优化、评测与发布流程"
+  default_prompt: "Use $orchestrating-skill-work to coordinate this multi-stage Skill request."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "优化 Skill"
+  short_description: "审批式、非破坏性地规划并生成已有 Skill 的衍生版本"
+  default_prompt: "Use $improving-skills to plan and derive an improved Skill without overwriting its source."
